@@ -1,1 +1,1 @@
-# lendingclub_ml
+The objective of this Lending Club machine learning project is two-fold, first to explore variables that reflect personal financial status, such as credit score and length of employment, and their correlation with either getting approved for or rejected by Lending Club for the loan; then using finding from the exploratory analysis, I will try different machine learning algorithms to make prediction for the test set and measure their respective accuracy.
